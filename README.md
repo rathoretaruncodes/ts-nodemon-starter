@@ -34,11 +34,6 @@ To use `ts-nodemon-starter` in your project, follow these steps:
    ```bash
    touch .env
 
-3. **Setup Your Project**
-
-   ```bash
-   touch .env
-
 ### Usage
 
 1. **Development**
