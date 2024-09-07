@@ -15,23 +15,26 @@ A TypeScript starter template with Nodemon for automatic reloading and Express.j
 
 Ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v14 or higher)
+- [Node.js](https://nodejs.org/) (v16 or higher)
 - [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) (for package management)
 
 ### Installation
 
-1. **Clone the Repository**
+To use `ts-nodemon-starter` in your project, follow these steps:
+
+1. **Install the package**
 
    ```bash
-   git clone <https://github.com/rathoretaruncodes/ts-nodemon-starter>
-   cd ts-nodemon-starter
+   npm install ts-nodemon-starter
 
-2. **Install Dependencies**
+2. **Add a `.env` File**
+   
+   Create a `.env` file in your project's root directory to manage environment variables:
 
    ```bash
-   npm install
+   touch .env
 
-3. **Setup Environment Variables**
+3. **Setup Your Project**
 
    ```bash
    touch .env
@@ -56,19 +59,10 @@ Ensure you have the following installed:
    ```bash
    npm start
 
-### Contributing
+## License
 
-Contributions are welcome! Please follow these steps:
+[MIT](https://github.com/rathoretaruncodes/ts-nodemon-starter/blob/main/LICENSE)
 
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes and ensure they are well tested.
-4. Open a pull request with a clear description of your changes.
+## Contact
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details
-
-### Contact
-
-For any questions or feedback, please reach out to `rathoretaruncodes@gmail.com`
+For any questions or feedback, please reach out to [GitHub](https://github.com/rathoretaruncodes/)
