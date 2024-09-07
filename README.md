@@ -65,4 +65,4 @@ To use `ts-nodemon-starter` in your project, follow these steps:
 
 ## Contact
 
-For any questions or feedback, please reach out to [GitHub](https://github.com/rathoretaruncodes/)
+For any questions or feedback, please open an issue in the [repository](https://github.com/rathoretaruncodes/ts-nodemon-starter).
