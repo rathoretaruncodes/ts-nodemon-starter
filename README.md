@@ -15,7 +15,7 @@ A TypeScript starter template with Nodemon for automatic reloading and Express.j
 
 Ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) (for package management)
 
 ### Installation
