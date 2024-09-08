@@ -22,17 +22,22 @@ Ensure you have the following installed:
 
 To use `ts-nodemon-starter` in your project, follow these steps:
 
-1. **Install the package**
+1. **Clone the repository**
 
    ```bash
-   npm install ts-nodemon-starter
+   git clone https://github.com/rathoretaruncodes/ts-nodemon-starter.git
+   cd ts-nodemon-starter
 
-2. **Add a `.env` File**
-   
-   Create a `.env` file in your project's root directory to manage environment variables:
+2. **Install Dependencies**
 
    ```bash
-   touch .env
+   npm install
+
+2. **Setup a `.env` File**
+
+   Create a `.env` file in the root directory by copying `.env.example`:
+   ```bash
+   cp .env.example .env
 
 ### Usage
 
@@ -54,9 +59,18 @@ To use `ts-nodemon-starter` in your project, follow these steps:
    ```bash
    npm start
 
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and ensure they are well tested.
+4. Open a pull request with a clear description of your changes.
+
 ## License
 
-[MIT](https://github.com/rathoretaruncodes/ts-nodemon-starter/blob/main/LICENSE)
+This project is licensed under the [MIT](https://github.com/rathoretaruncodes/ts-nodemon-starter/blob/main/LICENSE) license.
 
 ## Contact
 
